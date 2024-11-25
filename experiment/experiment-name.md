@@ -1,1 +1,1 @@
-## Experiment name
+## Measurement of Planck’s constant through Black Body Radiation

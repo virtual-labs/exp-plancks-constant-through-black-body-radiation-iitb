@@ -1,1 +1,3 @@
-### Aim of the experiment
+## Aim
+
+### To determine Planck's constant using black body radiation.
