@@ -54,6 +54,7 @@ function activity3() {
     // a1_windowresize();
     var bsOffcanvas = new bootstrap.Offcanvas(document.getElementById("offcanvasRight3"));
     bsOffcanvas.show();
+    a2_windowresize();
 }
 function inc_voltage() {
     // let inc: HTMLButtonElement = <HTMLInputElement> document.getElementById('v-inc');
@@ -186,5 +187,4 @@ function setVoltage() {
         return;
     }
 }
-activity3();
 //# sourceMappingURL=activity3.js.map
