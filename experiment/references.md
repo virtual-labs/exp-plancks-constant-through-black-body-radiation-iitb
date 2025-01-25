@@ -1,4 +1,4 @@
-<h3> Reference Books </h3> <br><br>
+<h3> Reference Books </h3> <br>
 
 1. Practical Physics, 4th Edition G. L. Squires, Cambridge university press <br>
 

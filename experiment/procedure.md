@@ -75,13 +75,4 @@ You are provided with a cylindrical tube with bulb fitted inside it. Inert this 
 </tbody>
 </table>
 
-
-| V (V) | &Delta;V (V) | I (mA) | &Delta;I (mA) | R (&Omega;) | &Delta;R (&Omega;) | P (W) | &Delta;P (W) | T (K) | &Delta;T (K) | Irad (mV) | &Delta;Irad (1%) (mV) |
-| :---: | :----------: | :----: | :-----------: | :---------: | :----------------: | :---: | :----------: | :---: | :----------: | :-------: | :-------------------: |
-|  34   |     0.4      |  100   |       1       |     329     |         6          | 3.31  |     0.09     |  976  |      12      |    0.4    |     1% of I value     |
-|  57   |              |        |               |             |                    |       |              |       |              |           |                       |
-|   .   |              |        |               |             |                    |       |              |       |              |           |                       |
-|   .   |              |        |               |             |                    |       |              |       |              |           |                       |
-|  210  |              |        |               |             |                    |       |              |       |              |           |                       |
-
 <br> Table 2: Model table for experimental results.
