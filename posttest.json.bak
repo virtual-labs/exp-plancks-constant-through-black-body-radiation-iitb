@@ -1,0 +1,47 @@
+[
+   {
+      "question": "What is the significance of Planck's constant (h) in the context of black body radiation?",
+      "qid": 1,
+      "option_a": "It determines the temperature of the black body.",
+      "option_b": "It governs the relationship between the energy and frequency of the emitted radiation.",
+      "option_c": "It represents the total energy emitted by the black body.",
+      "option_d": "It defines the color perception of the black body.",
+      "correct_option": "b"
+   },
+   {
+      "question": "Which of the following best describes the concept of black body radiation?",
+      "qid": 2,
+      "option_a": "The radiation emitted by a black-colored object.",
+      "option_b": "The emission of colored light by hot objects.",
+      "option_c": "The continuous spectrum of radiation emitted by an idealized object that perfectly absorbs and emits radiation at all wavelengths.",
+      "option_d": "The reflection of light by a black surface.",
+      "correct_option": "c"
+   },
+   {
+      "question": "What role does Planck's constant play in quantizing energy levels in black body radiation?",
+      "qid": 3,
+      "option_a": "Planck's constant determines the color of the emitted radiation.",
+      "option_b": "Planck's constant is used to calculate the total energy emitted by the black body.",
+      "option_c": "Planck's constant quantizes the energy levels of the emitted radiation into discrete packets called \"quanta\" or photons.",
+      "option_d": "Planck's constant regulates the temperature of the black body.",
+      "correct_option": "c"
+   },
+   {
+      "question": "Why is it essential to repeat the experiment with multiple trials when finding Planck's constant?",
+      "qid": 4,
+      "option_a": "To reduce the effect of systematic errors.",
+      "option_b": "To increase the intensity of the incident light.",
+      "option_c": "To minimize the dark current of the detector.",
+      "option_d": "To decrease the uncertainty in the temperature measurement.",
+      "correct_option": "a"
+   },
+   {
+      "question": "How can the accuracy of the wavelength measurement be improved in the black body radiation experiment?",
+      "qid": 5,
+      "option_a": "Using a light source with a broader spectrum.",
+      "option_b": "Decreasing the resolution of the wavelength measurement instrument.",
+      "option_c": "Increasing the size of the black body.",
+      "option_d": "Using a diffraction grating for wavelength measurements.",
+      "correct_option": "d"
+   }
+]

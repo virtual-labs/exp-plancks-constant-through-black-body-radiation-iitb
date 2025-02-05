@@ -1,0 +1,47 @@
+[
+   {
+      "question": "The wavelength for which energy is maximum is in a black body radiation?",
+      "qid": 1,
+      "option_a": "Directly proportional to absolute temperature of black body",
+      "option_b": "Inversely proportional to absolute temperature of black body",
+      "option_c": "Do not change with temperature of black body",
+      "option_d": "Cannot predicted",
+      "correct_option": "b"
+   },
+   {
+      "question": "Energy released by a radiating surface is not continuous but is in the form of successive and separate packets of energy called",
+      "qid": 2,
+      "option_a": "Photons",
+      "option_b": "Protons",
+      "option_c": "Electrons",
+      "option_d": "Neutrons",
+      "correct_option": "a"
+   },
+   {
+      "question": "A perfectly black body",
+      "qid": 3,
+      "option_a": "allow all the incident radiation to pass through it",
+      "option_b": "can absorb and emit all the incident radiation",
+      "option_c": "only can reflect all the incident radiation",
+      "option_d": "has its surface coated with lamp black or graphite",
+      "correct_option": "b"
+   },
+   {
+      "question": "For black body, the spectrum of emitted thermal radiation depends on",
+      "qid": 4,
+      "option_a": "Material with which the black body is made",
+      "option_b": "Temperature",
+      "option_c": "Nature of surface of the black body",
+      "option_d": "All of the options provided",
+      "correct_option": "b"
+   },
+   {
+      "question": "The standard value for plank's constant 'h' is",
+      "qid": 5,
+      "option_a": "6.625\u00D710<sup>-34</sup>Js",
+      "option_b": "6.625\u00D710<sup>34</sup>Js",
+      "option_c": "6.625\u00D710<sup>32</sup>Js",
+      "option_d": "6.625\u00D710<sup>12</sup>Js",
+      "correct_option": "a"
+   }
+]
